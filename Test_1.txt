@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Modifying the content of the file
+=======
+Added code feature
+>>>>>>> added code in Test_1.txt
